@@ -33,6 +33,7 @@ export default function About() {
     'Provide excellent holistic solutions incorporating our mutual values which are professionalism, global perspectives, and ESG.',
     'Passionate about providing exceptional customer care and maintaining an impressive dedication to every client, regardless of your business size.',
   ];
+  
   const founder = [
     'Solomon has more than 30 years of experience\nin the risk management and insurance industry.\nHis industry experience includes senior leadership\nroles at Evergreen Group, where he was\nalso a Board Director of the Evergreen Insurance Company,\nBermuda, responsible for all management and operations,\nand President of Central Re.',
     'Previously, Solomon was a senior management of ACR.\nHe led ACR’s rapid expansion in Greater China during a 10-year span\nin which it became one of the largest reinsurers in Asia,\nnegotiating and completing many reinsurance businesses.',
