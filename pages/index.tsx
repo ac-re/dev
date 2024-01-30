@@ -35,6 +35,7 @@ export default function Home() {
         'The technical advice can be very useful if you need to make a claim.',
     },
   ];
+  
   const coreValue = [
     {
       title: 'Professionalism',
